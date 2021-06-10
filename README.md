@@ -1,1 +1,2 @@
 # TriviaGame
+![](OpenScreen.png)
